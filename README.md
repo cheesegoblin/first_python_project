@@ -1,5 +1,6 @@
 # first_python_project
-a simple car game
+A simple conceptual  car game
+
 A car game using 3 simple commands
 
 1-start [to start the car]
